@@ -1,7 +1,7 @@
 {
   "name": "xctestwd-frameworks-9.1",
   "version": "1.0.0",
-  "description": "xctestwd frameworks 9.1",
+  "description": "xctestwd frameworks for xcode 9.1",
   "keywords": ["xctestwd"],
   "main": "index.js"
 }
