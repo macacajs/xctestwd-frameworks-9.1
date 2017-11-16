@@ -3,3 +3,4 @@ node_modules
 *.un~
 *.tgz
 package/
+Carthage/Checkouts
